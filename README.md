@@ -1,7 +1,5 @@
 <div align="center">
 
-![Welcome Banner](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=7DF7FF&center=true&vCenter=true&lines=Hey%2C+I%E2%80%99m+cubik)
-
 [![Cubik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubiczek&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubiczek&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
