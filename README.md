@@ -3,8 +3,6 @@
 [![Cubik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubiczek&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubiczek&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=cubiczek&label=Profile%20views&color=blueviolet&style=for-the-badge)
-
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
