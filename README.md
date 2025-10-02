@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Cubik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubiczek&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubiczek&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Cubik's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubiczek&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
