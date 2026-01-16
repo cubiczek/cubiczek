@@ -1,5 +1,7 @@
-<div align="center">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=4000&color=7DF7FF&center=true&vCenter=true&lines=Hey%2C+I%E2%80%99m+cubik" alt="Typing SVG" />
+</p>
+  
 ---
 
 <p align="center">
@@ -21,6 +23,3 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
 </p>
-
-
-</div>
