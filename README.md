@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Cubik+%F0%9F%91%8B;Java+%7C+Kotlin+%7C+TypeScript;Backend+Developer" />
-</p>
-
 ---
 
 <p align="center">
